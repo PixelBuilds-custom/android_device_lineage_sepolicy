@@ -1,1 +1,2 @@
 motorola.hardware.health::IMotHealth                                    u:object_r:hal_health_hwservice:s0
+vendor.lineage.powershare::IPowerShare                                  u:object_r:hal_lineage_powershare_hwservice:s0
